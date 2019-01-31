@@ -39,7 +39,7 @@ var update = function(){
 // }
 
 var render = function(){
-	canvas.fillStyle = "#FFFFFF";
+	canvas.fillStyle = "#F5F5F5";
 	canvas.fillRect(0, 0, WIDTH, HEIGHT);
 
 	

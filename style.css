@@ -1,0 +1,26 @@
+body{
+	font-family: "Lucida Console";
+	background-color: whitesmoke;
+}
+
+a:link{
+	color: red;
+}
+
+a:visited{
+	color: gray;
+}
+
+body div{
+	border-radius: 30px 30px 30px 5px;
+	background-image: linear-gradient(rgba(99,0,0,.7),rgba(0,33,66,.7));
+	padding: 20px;
+}
+
+.center{
+	display: block;
+	margin-right:auto;
+	margin-left:auto;
+	margin-top:15px;
+	width:50%;
+}
